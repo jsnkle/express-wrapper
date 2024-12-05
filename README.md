@@ -1,4 +1,4 @@
-# Basic Node Express Wrapper
+# Basic Node Express Wrapper for Create React App
 
 - You will need to run 'npm ci' in your pipeline to install the express dependency
 - Copy your React build folder into a new 'frontend' directory. e.g. '/frontend/build'
